@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Non exhaustive collection of the project I am working or worked on. I try my best to keep it updated!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+#display_categories: [Computer Science, Machine Learning]
 horizontal: false
 ---
 
