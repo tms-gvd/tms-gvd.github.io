@@ -9,8 +9,8 @@ nav_order: 2
 
 ### Full CV
 
-- [English](../assets/pdf/FrenchCV.pdf)
-- [French](../assets/pdf/FrenchCV.pdf)
+- [English](../assets/pdf/english.pdf)
+- [French](../assets/pdf/french.pdf)
 
 ### In short
 
