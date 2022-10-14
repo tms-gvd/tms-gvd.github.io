@@ -17,9 +17,13 @@ nav_order: 2
 ##### <ins>Education</ins>
 
 - Sep 2022 - Apr 2024: **MSc, Data Science** - *University of Lille*
+    - [First year courseworks]({% link _pages/courses/DS_M1.md %})
+    - [Second year courseworks]({% link _pages/courses/DS_M2.md %})
 - Sep 2022 - Apr 2023: **MSc, Quantitative Finance** - *IAE Lille*
+    - [Courseworks]({% link _pages/courses/FQ.md %})
 - Sep 2019 - Aug 2022: **MEng, General Engineering** - *Centrale Lille*
 - Sep 2016 - Jul 2019: **Preparatory classes** - *Lycée Louis-Le-Grand*
+
 
 ##### <ins>Professional Experiences</ins>
 
