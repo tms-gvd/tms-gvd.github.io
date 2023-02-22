@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://ecole.centralelille.fr/#'>MEng General Engineering</a> | <a href='https://sciences-technologies.univ-lille.fr/informatique/formation/master-data-science'>MSc Data Science</a> |  <a href='/assets/pdf/FQ-centrale-2022.pdf'>MSc Quantitative Finance</a>
+subtitle: <a href='https://ecole.centralelille.fr/#'>MEng General Engineering</a> | <a href='https://sciences-technologies.univ-lille.fr/informatique/formation/master-data-science'>MSc Data Science</a> 
+# |  <a href='/assets/pdf/FQ-centrale-2022.pdf'>MSc Quantitative Finance</a>
 
 profile:
   align: right
@@ -15,8 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Student at the French engineering school Centrale Lille, I am currently pursuing a double degree at the University of Lille in the MSc of Data Science. In parallel, I am doing a master in quantitative finance at IAE Lille.
+Student at the French engineering school Centrale Lille, I am currently pursuing a double degree at the University of Lille in the MSc of Data Science.
 
 *Looking for internship opportunities, starting in April for 4 months.*
-
-*NB: this site was launched in October 2022 and it is not complete, I am still working on it.* 
